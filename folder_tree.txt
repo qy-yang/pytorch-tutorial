@@ -1,0 +1,12 @@
+.
+├── 01_basics
+│   ├── 01_pytoch_basics.ipynb
+│   ├── 02_linear_regression.ipynb
+│   ├── 03_logistic_regression.ipynb
+│   └── 04_feedfoward_neural_netword.ipynb
+├── 02_intermediate
+│   └── 01_CNN.ipynb
+├── folder_tree.txt
+└── README.md
+
+2 directories, 7 files
